@@ -1,8 +1,3 @@
-
-Sure! Here's a polished and professional `README.md` file for your machine learning project with a Flask app deployed on AWS ECS using Docker and Jenkins. It includes visual elements, emojis, and a clean structure to make it engaging and informative.
-
----
-
 ```markdown
 # 🧠 ML Model Deployment with Flask, Docker, Jenkins & AWS ECS
 
